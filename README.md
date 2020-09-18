@@ -1,2 +1,2 @@
 # learnPython
-this repository create by purpose to provide conprehensive learning for machine learning 
+This repository create by purpose to provide conprehensive learning for Machine Learning 
